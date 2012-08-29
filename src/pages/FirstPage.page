@@ -1,0 +1,6 @@
+<apex:page controller="FirstPageController">
+	<apex:form >
+		<apex:commandButton value="Next" action="{!next}">
+		</apex:commandButton>
+	</apex:form>	
+</apex:page>
